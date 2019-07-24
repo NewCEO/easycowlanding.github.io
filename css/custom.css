@@ -1,0 +1,17 @@
+.m-r{
+	padding:10px;
+	filter: grayscale(100%);
+	width:46%;
+}
+
+.channels{
+	width: 100%;
+}
+
+.punch{
+	margin-top: 15px;
+}
+
+#media{
+	margin-bottom: 20px;
+}
